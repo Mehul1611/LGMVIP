@@ -38,9 +38,9 @@ reflecting my growth in neural networks, data analysis, and prediction modeling.
 
 ## Technical Skills
 
-- **Programming Languages:** Python
-- **Machine Learning Techniques:** Facial Recognition, Decision Trees, Neural Networks
-- **Data Analysis and Visualization:** Pandas, Matplotlib, Seaborn, Tensorflow
+- **Programming Languages:** `Python`.
+- **Machine Learning Techniques:** Facial Recognition, Decision Trees, Neural Networks.
+- **Data Analysis and Visualization:** `Pandas`, `Matplotlib`, `Seaborn`, `Tensorflow`.
 - **Natural Language Processing:** Next Word Prediction, Handwritten Equation Solver
 - **Image Processing:** Pencil Sketch Generator
 - **Time Series Analysis:** Stock Market Prediction and Forecasting
